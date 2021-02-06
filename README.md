@@ -25,3 +25,17 @@ Available options for file formats when moving forwards:
 * [YAML](https://en.wikipedia.org/wiki/YAML)
 
 Most efforts seem to be focusing on either XML or JSON, but I have a personal preference for YAML (both because it is a plaintext format and because it is a human readable format). Since this repository is purely speculation, I’m not too concerned about either development issues I would run into or being overly rigorous with specifications. Keeping that in mind, converting back and forth between YAML and GEDCOM *appears* it should be relatively trivial and, if necessary, could be done by hand.
+
+## GEDCOM
+
+I will be referring to GEDCOM files as a baseline or starting point simply because they are the most prevalent within the genealogy community, the are the format that everyone is familiar with.
+
+GEDCOM files deal with four(?) primary components:
+* INDI (individual) – naming and personal data
+* EVEN (event) – events, personal and family
+* SOUR (source) – sources and documentation
+* FAM (family) – the mappings and connections between individuals
+
+In addition, GEDCOM files will have a HEAD (header) that will also provide information on the format and version being used
+as well as the SUBM (submitter) of that file
+
