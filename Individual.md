@@ -47,7 +47,7 @@
 * Pseudonyms, usernames, pen names, stage names, aliases
 
 ### `dead`
-* *Needs a better descriptor*
+* \**Needs a better descriptor*\*
 * Bureaucratic or legalese name
   * ie. form filled out on paperwork because of or in spite of name change
 * Should *only* be used when back-mapping or external linking is wanted
