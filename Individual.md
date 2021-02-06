@@ -21,7 +21,7 @@
       ruby:       !!str     # pronunciation guides
       preferred:  !!str     # name to be addressed by
       pseudonym:  !!str     # stage name, pen name, username
-      dead:       !!str     # bureaucratic, legal alternates
+      deadname:   !!str     # bureaucratic, legal alternates
 
 ### `name`
 * Parent key with `&id` to be referenced with `*id` later on (ie. in Family mappings)
@@ -46,10 +46,11 @@
 ### `pseudonym`
 * Pseudonyms, usernames, pen names, stage names, aliases
 
-### `dead`
+### `deadname`
 * \**Needs a better descriptor*\*
 * Bureaucratic or legalese name
   * ie. form filled out on paperwork because of or in spite of name change
 * Should *only* be used when back-mapping or external linking is wanted
+  * Serious data privacy issues
 * Considering Kafka-esque situation people get shuffled into when doing an expected name change (ex. wife in traditional American marriage)
 * Situation is significantly worse for “non expected” name changes (ie. paperwork is filed but “superiors” refuse to acknowledge)
