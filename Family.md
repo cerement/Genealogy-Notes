@@ -11,3 +11,5 @@
 > can only be represented using the generic ASSO tag used for any type of relationship.
 
 —[Support for varying definitions of families and relationships](https://en.wikipedia.org/wiki/GEDCOM#Support_for_varying_definitions_of_families_and_relationships)
+
+[Ahnentafel](https://en.wikipedia.org/wiki/Ahnentafel)
