@@ -21,7 +21,7 @@
       ruby:       !!str     # pronunciation guides
       preferred:  !!str     # name to be addressed by
       pseudonym:  !!str     # stage name, pen name, username
-      dead:       !!str     # bureaucratic, legal alternatives
+      dead:       !!str     # bureaucratic, legal alternates
 
 ### `name`
 * Parent key with `&id` to be referenced with `*id` later on (ie. in Family mappings)
