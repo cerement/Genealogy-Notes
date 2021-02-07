@@ -8,7 +8,8 @@ Between looking at my personal timeline and family members showing an interest i
 
 ## Issues
 
-The first shortcoming of the online method is data privacy – the demographic data available in publicly available ancestral trees is as rich as the data offered up by dating websites. This might be mitigated somewhat by a decentralized peer-to-peer ancestral mapping (ie. a set of federated genealogy servers sharing linkages back and forth via some sort of [IRI](https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier) sytem).
+The first shortcoming of the online method is data privacy – the demographic data available in publicly available ancestral trees is as rich as the data offered up by dating websites. This might be mitigated somewhat by a decentralized peer-to-peer ancestral mapping (ie. a set of federated genealogy servers sharing linkages back and forth via some sort of [IRI](https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier) sytem –
+ref. [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(software))).
 
 [Network Effect](https://en.wikipedia.org/wiki/Network_effect), [Data Silo](https://en.wikipedia.org/wiki/Information_silo),
 and [Lock In](https://en.wikipedia.org/wiki/Vendor_lock-in) – all conditions (or a combination of conditions) which can lead to a situation where your family tree is taken out of your control. If you’ve spent time building up a family tree on any website and the website disappears before you’ve had a chance to download your tree (if it is even possible for that website). If you’ve built your family tree in a program or app and the company goes belly-up before you’ve had a chance to export your family tree out of the program’s proprietary format (if it even allowed exporting) or the app runs afoul of Apple or Google and gets removed from the app store and subsequently deleted from your phone.
