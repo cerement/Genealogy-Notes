@@ -1,0 +1,18 @@
+---
+
+individual:
+- name:         &I1
+    fullname:   John Doe
+    sortname:   Doe, John
+  birth:
+  - date:       1800-01-10
+    source:     &S1
+      text:     Transcription from birth certificate would go here
+      note:     This birth record is preferred because it comes from the birth certificate
+      quality:  2
+  - date:       1800-01-11
+    source:     &S2
+      text:     Transcription from death certificate would go here
+      quality:  2
+
+...
