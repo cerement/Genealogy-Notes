@@ -16,7 +16,11 @@ Most network graphing formats default to defining nodes (actors) and edges (link
 
 [Social network analysis software](https://en.wikipedia.org/wiki/Social_network_analysis_software)
 
+[Genealogy software](https://en.wikipedia.org/wiki/Genealogy_software)
+
 [SocNetV: Supported Formats](https://socnetv.org/docs/formats.html) – showing examples and supported tags (defaults to GraphML)
+
+[Gramps](https://en.wikipedia.org/wiki/Gramps) defaults to [GraphViz](https://en.wikipedia.org/wiki/Graphviz)
 
 * [Ahnentafel](https://en.wikipedia.org/wiki/Ahnentafel)
 * [Graph Modelling Language](https://en.wikipedia.org/wiki/Graph_Modelling_Language)
