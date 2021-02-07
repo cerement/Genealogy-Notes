@@ -35,14 +35,13 @@ Most efforts seem to be focusing on either XML or JSON, but I have a personal pr
 
 I will be referring to GEDCOM files as a baseline or starting point simply because they are the most prevalent within the genealogy community, the are the format that everyone is familiar with.
 
-GEDCOM files deal with four(?) primary components:
-* INDI (individual) – naming and personal data
+GEDCOM files are generally composed of three sections:
+* HEAD (header) – metadata
+* INDI (individual) – data set for people
+* FAM (family) – data set for family mapping
+Additionally, two extra categories of data are woven into the above:
 * EVEN (event) – events, personal and family
 * SOUR (source) – sources and documentation
-* FAM (family) – the mappings and connections between individuals
-
-In addition, GEDCOM files will have a HEAD (header) that will also provide information on the format and version being used
-as well as the SUBM (submitter) of that file
 
 ## Microformats
 
