@@ -43,3 +43,16 @@ GEDCOM files deal with four(?) primary components:
 
 In addition, GEDCOM files will have a HEAD (header) that will also provide information on the format and version being used
 as well as the SUBM (submitter) of that file
+
+## Microformats
+
+Of the above, the only component that is somewhat unique is the FAM mapping, the network of connections, the whole thing could be split into discrete components.
+* INDI part could be handled by [vCard](https://en.wikipedia.org/wiki/VCard) or its derivatives
+* EVEN could be handled by [iCalendar](https://en.wikipedia.org/wiki/ICalendar)
+* SOUR by [Dublin Core](https://en.wikipedia.org/wiki/Dublin_Core) or upgraded to a proper [BibTeX](https://en.wikipedia.org/wiki/BibTeX)
+  or [CSL](https://en.wikipedia.org/wiki/Citation_Style_Language) (including [CSL YAML](https://pandoc.org/))
+* FAM could be handled by something like [XFN](https://en.wikipedia.org/wiki/XHTML_Friends_Network) or use a format that could be cleanly fed into
+  [Pajek](http://mrvar.fdv.uni-lj.si/pajek/) or [KrackPlot](https://www.heinz.cmu.edu/faculty-research/profiles/krackhardt-davidm/krackplot)
+  or some other network mapping utility – or rely on the capabilities of a statistical language like [R](https://en.wikipedia.org/wiki/R_(programming_language))
+
+ref. [Genealogy Formats](https://microformats.org/wiki/genealogy-formats)
