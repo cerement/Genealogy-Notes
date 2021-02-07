@@ -12,6 +12,8 @@
 
 —[Support for varying definitions of families and relationships](https://en.wikipedia.org/wiki/GEDCOM#Support_for_varying_definitions_of_families_and_relationships)
 
+[Social network analysis software](https://en.wikipedia.org/wiki/Social_network_analysis_software)
+
 * [Ahnentafel](https://en.wikipedia.org/wiki/Ahnentafel)
 * [Graph Modelling Language](https://en.wikipedia.org/wiki/Graph_Modelling_Language)
 * [XHTML Friends Network](https://en.wikipedia.org/wiki/XHTML_Friends_Network)
