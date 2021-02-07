@@ -29,7 +29,7 @@ Available options for file formats when moving forwards:
 * [JSON](https://en.wikipedia.org/wiki/JSON)
 * [YAML](https://en.wikipedia.org/wiki/YAML)
 
-Most efforts seem to be focusing on either XML or JSON, but I have a personal preference for YAML (both because it is a plaintext format and because it is a human readable format). Since this repository is purely speculation, I’m not too concerned about either development issues I would run into or being overly rigorous with specifications. Keeping that in mind, converting back and forth between YAML and GEDCOM *appears* it should be relatively trivial and, if necessary, could be done by hand.
+Most efforts seem to be focusing on either XML or JSON, but I have a personal preference for YAML (both because it is a plaintext format and because it is a human readable format). Since this repository is purely speculation, I’m not too concerned about either development issues I would run into or being overly rigorous with specifications. Keeping that in mind, converting back and forth between YAML and GEDCOM *appears* it should be relatively trivial and, if necessary, could be done by hand. Another minor point is Pandoc can be used for processing Markdown files with included YAML metadata for ID and citations.
 
 ## GEDCOM
 
