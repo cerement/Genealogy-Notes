@@ -14,7 +14,7 @@
 
 [Social network analysis software](https://en.wikipedia.org/wiki/Social_network_analysis_software)
 
-[SocNetV: Supported Formats](https://socnetv.org/docs/formats.html) – showing examples and supported tags
+[SocNetV: Supported Formats](https://socnetv.org/docs/formats.html) – showing examples and supported tags (defaults to GraphML)
 
 * [Ahnentafel](https://en.wikipedia.org/wiki/Ahnentafel)
 * [Graph Modelling Language](https://en.wikipedia.org/wiki/Graph_Modelling_Language)
