@@ -39,6 +39,7 @@ GEDCOM files are generally composed of three sections:
 * HEAD (header) – metadata
 * INDI (individual) – data set for people
 * FAM (family) – data set for family mapping
+
 Additionally, two extra categories of data are woven into the above:
 * EVEN (event) – events, personal and family
 * SOUR (source) – sources and documentation
