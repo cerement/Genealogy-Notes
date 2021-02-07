@@ -10,6 +10,8 @@
 > such as same-sex marriages, domestic partnerships, cohabitation, polyamory or polygamy. Such relationships
 > can only be represented using the generic ASSO tag used for any type of relationship.
 
+Most network graphing formats default to defining nodes (actors) and edges (links, relationships)
+
 —[Support for varying definitions of families and relationships](https://en.wikipedia.org/wiki/GEDCOM#Support_for_varying_definitions_of_families_and_relationships)
 
 [Social network analysis software](https://en.wikipedia.org/wiki/Social_network_analysis_software)
