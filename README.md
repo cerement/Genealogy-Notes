@@ -3,6 +3,7 @@
 * [Individual](Individual.md)
 * [Event](Event.md)
 * [Family](Family.md)
+* [Samples](Samples.md)
 
 Between looking at my personal timeline and family members showing an interest in genealogy, I got distracted and jumped down that rabbit hole for a while. The main advantage of handling things online is the ability to rely on crowd-sourcing ancestral linkages – once a common point is found between two trees, the trees can be linked and extended, opening up possibilies for future growth.
 
@@ -42,7 +43,3 @@ GEDCOM files deal with four(?) primary components:
 
 In addition, GEDCOM files will have a HEAD (header) that will also provide information on the format and version being used
 as well as the SUBM (submitter) of that file
-
-## [Samples](Samples.md)
-
-Early test conversions and trying out options
