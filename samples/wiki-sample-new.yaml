@@ -1,0 +1,18 @@
+---
+
+individual:
+- name:         &I1
+    fullname:   John Smith
+    sortname:   Smith, John
+- name:         &I2
+    fullname:   Elizabeth Stansfield
+    sortname:   Stansfield, Elizabeth
+- name:         &I3
+    fullname:   James Smith
+    sortname:   Smith, James
+
+family:         &F1
+  parents:      [*I1, *I2]
+  children:     *I3
+
+...

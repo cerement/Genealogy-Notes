@@ -1,0 +1,32 @@
+---
+
+head:
+  source:
+    name:       Personal Ancestral File
+    version:    5.0
+  date:         2000-11-30
+  gedcom:
+    version:    5.5
+    format:     lineage-linked
+  character:    UTF-8
+  submitter:
+    name:       Submitter
+
+people:
+- individual:   &I1
+  name:         John /Smith/
+  sex:          male
+- individual:   &I2
+  name:         Elizabeth /Stansfield/
+  sex:          female
+- individual:   &I3
+  name:         James /Smith/
+  sex:          male
+
+family:         &F1
+  husband:      *I1
+  wife:         *I2
+  marriage:
+  children:     *I3
+
+...
