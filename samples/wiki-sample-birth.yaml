@@ -1,7 +1,7 @@
 ---
 
 individual:     &I1
-  name:         John /Doe/
+- name:         John /Doe/
   birth:
   - date:       1800-01-10
     source:     &S1
