@@ -46,7 +46,7 @@ as well as the SUBM (submitter) of that file
 
 ## Microformats
 
-Of the above, the only component that is somewhat unique is the FAM mapping, the network of connections, the whole thing could be split into discrete components.
+Of the above, the only component that is somewhat unique is the FAM mapping, the network of connections – a modern alternative to GEDCOM could be split into a whole series of linked discrete components:
 * INDI part could be handled by [vCard](https://en.wikipedia.org/wiki/VCard) or its derivatives
 * EVEN could be handled by [iCalendar](https://en.wikipedia.org/wiki/ICalendar)
 * SOUR by [Dublin Core](https://en.wikipedia.org/wiki/Dublin_Core) or upgraded to a proper [BibTeX](https://en.wikipedia.org/wiki/BibTeX)
