@@ -15,13 +15,15 @@
 
 ## Name
 
-    name:         &id
-      fullname:   !!str     # full name in order
-      sortname:   !!str     # sorting, data entry
-      ruby:       !!str     # pronunciation guides
-      preferred:  !!str     # name to be addressed by
-      pseudonym:  !!str     # stage name, pen name, username
-      deadname:   !!str     # bureaucratic, legal alternates
+```yaml
+name:         &id
+  fullname:   !!str     # full name in order
+  sortname:   !!str     # sorting, data entry
+  ruby:       !!str     # pronunciation guides
+  preferred:  !!str     # name to be addressed by
+  pseudonym:  !!str     # stage name, pen name, username
+  deadname:   !!str     # bureaucratic, legal alternates
+```
 
 ### `name`
 * Parent key with `&id` to be referenced with `*id` later on (ie. in Family mappings)
