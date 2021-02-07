@@ -1,13 +1,13 @@
 # Sample Conversions
 
 ### `sample.ged` from Wikipedia
-* [`wiki-sample.ged`](samples/wiki-sample.ged) – source file
-* [`wiki-sample-pretty.ged`](samples/wiki-sample-pretty.ged) – indented
-* [`wiki-sample.yaml`](samples/wiki-sample.yaml) – straight YAML conversion
-* [`wiki-sample-new.yaml`](samples/wiki-sample-new.yaml) – cleaned up and simplified
+* [`sample-wiki.ged`](samples/sample-wiki.ged) – source file
+* [`sample-wiki-pretty.ged`](samples/sample-wiki-pretty.ged) – indented
+* [`sample-wiki.yaml`](samples/sample-wiki.yaml) – straight YAML conversion
+* [`sample-wiki-new.yaml`](samples/sample-wiki-new.yaml) – cleaned up and simplified
 
 ### Two Births from Wikipedia
-* [`wiki-sample-birth.ged`](samples/wiki-sample-birth.ged) – source file
-* [`wiki-sample-birth-pretty.ged`](samples/wiki-sample-birth-pretty.ged) – indented
-* [`wiki-sample-birth.yaml`](samples/wiki-sample-birth.yaml) – straight YAML conversion
-* [`wiki-sample-birth-new.yaml`](samples/wiki-sample-birth-new.yaml) – cleaned up and simplified
+* [`sample-wiki-birth.ged`](samples/sample-wiki-birth.ged) – source file
+* [`sample-wiki-birth-pretty.ged`](samples/sample-wiki-birth-pretty.ged) – indented
+* [`sample-wiki-birth.yaml`](samples/sample-wiki-birth.yaml) – straight YAML conversion
+* [`sample-wiki-birth-new.yaml`](samples/sample-wiki-birth-new.yaml) – cleaned up and simplified
