@@ -9,6 +9,12 @@
 “[We are] working with the same raw material as exists in the animal world, but [we] can conceptualize and categorize it to serve social ends.”  
 —Robin Fox
 
+## Kinship
+
+Requires research, but anthropological “kinship” looks to be a better source of relationship terminology than genealogy terms.
+
+## Background
+
 [Social network analysis software](https://en.wikipedia.org/wiki/Social_network_analysis_software)  
 [Genealogy software](https://en.wikipedia.org/wiki/Genealogy_software)
 
