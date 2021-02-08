@@ -12,7 +12,7 @@
 [Social network analysis software](https://en.wikipedia.org/wiki/Social_network_analysis_software)  
 [Genealogy software](https://en.wikipedia.org/wiki/Genealogy_software)
 
-Most network [graphing](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)) formats default to defining vertices (nodes, actors) and edges (links, relationships). Most file formats appear to be text-based and relatively compact, [GraphML](https://en.wikipedia.org/wiki/GraphML) shows up frequently.
+Most network [graphing](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)) formats default to defining vertices (nodes, actors) and edges (links, relationships). Most file formats appear to be text-based and relatively compact, [DOT](https://en.wikipedia.org/wiki/DOT_(graph_description_language)) files and [GraphML](https://en.wikipedia.org/wiki/GraphML)(GraphViz) appear common.
 * ex. SocNetV uses GraphML for files and GraphViz for rendering/plotting
 
 [SocNetV: Supported Formats](https://socnetv.org/docs/formats.html) – showing examples and supported tags (defaults to GraphML)
