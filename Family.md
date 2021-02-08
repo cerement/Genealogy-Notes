@@ -21,7 +21,6 @@ Other formats
     > can only be represented using the generic ASSO tag used for any type of relationship.  
     —[Support for varying definitions of families and relationships]
     (https://en.wikipedia.org/wiki/GEDCOM#Support_for_varying_definitions_of_families_and_relationships)
-
 * [Ahnentafel](https://en.wikipedia.org/wiki/Ahnentafel)
 * [Gramps](https://en.wikipedia.org/wiki/Gramps)
   * families only have two parents: father/parent1 and mother/parent2
