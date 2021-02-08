@@ -6,6 +6,9 @@
 “The bond that links your true family is not one of blood, but of respect and joy in each other’s life.”  
 —Richard Bach
 
+“[We are] working with the same raw material as exists in the animal world, but [we] can conceptualize and categorize it to serve social ends.”  
+—Robin Fox
+
 [Social network analysis software](https://en.wikipedia.org/wiki/Social_network_analysis_software)  
 [Genealogy software](https://en.wikipedia.org/wiki/Genealogy_software)
 
