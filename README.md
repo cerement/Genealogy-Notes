@@ -11,7 +11,7 @@ Between looking at my personal timeline and family members showing an interest i
 
 ## Story
 
-Thinking a cluster of individual components that can be zipped together would offer the best solution, each component handled by a particular format. Allows using folders for organization, reliance on each formats’ strengths. Remember to place a priority on plaintext formats …
+Thinking a cluster of individual components that can be zipped together would offer the best solution, each component handled by a particular format. Allows using folders for organization, reliance on each formats’ strengths. Files should be able to reference other files (id tags) as well as include other files (especially kinship maps). Remember to place a priority on plaintext formats …
 * Kinship – graphing and connections – GraphViz, GraphML, Pajek, KrackPlot
 * People – individuals and identity – vCard(?)
 * Citations – reference material – BibTeX, Zotero, CSL YAML
