@@ -11,7 +11,7 @@
 
 ## Kinship
 
-Requires research, but anthropological “kinship” looks to be a better source of relationship terminology than genealogy terms.
+Requires research, but anthropological [kinship](https://en.wikipedia.org/wiki/Kinship) looks to be a better source of relationship terminology than genealogy terms. Kinship covers consanguinity (relationship by blood), affinity (relationship by marriage), and fictive kingship (kinship ties not by blood or marriage, ex. milk-mother, godparents, guru in India, foster care, brothers-in-arms, etc.)
 
 ## Background
 
