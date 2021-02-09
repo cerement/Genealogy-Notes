@@ -5,9 +5,20 @@
 * [Family](Family.md)
 * [Samples](Samples.md)
 
+## Preface
+
 Between looking at my personal timeline and family members showing an interest in genealogy, I got distracted and jumped down that rabbit hole for a while. The main advantage of handling things online is the ability to rely on crowd-sourcing ancestral linkages – once a common point is found between two trees, the trees can be linked and extended, opening up possibilies for future growth.
 
-## Issues
+## Story
+
+Thinking a cluster of individual components that can be zipped together would offer the best solution, each component handled by a particular format. Allows using folders for organization, reliance on each formats’ strengths. Remember to place a priority on plaintext formats …
+* Kinship – graphing and connections – GraphViz, GraphML, Pajek, KrackPlot
+* People – individuals and identity – vCard(?)
+* Citations – reference material – BibTeX, Zotero, CSL YAML
+
+## Background
+
+### Issues
 
 The first shortcoming of the online method is data privacy – the demographic data available in publicly available ancestral trees is as rich as the data offered up by dating websites. This might be mitigated somewhat by a decentralized peer-to-peer ancestral mapping (ie. a set of federated genealogy servers sharing linkages back and forth via some sort of [IRI](https://en.wikipedia.org/wiki/Internationalized_Resource_Identifier) sytem –
 ref. [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(software))).
@@ -19,7 +30,7 @@ The next issue is that there are a multitude of programs and websites that attem
 
 Several tries have been made to add extensions to GEDCOM (ie. support for genealogy certification), but without interoperability, each program and site decides which extensions to honor or ignore. There have also been multiple movements over the years, both within the LDS Church ([GEDCOM X](http://www.gedcomx.org/)) and community controlled ([FHISO/BetterGEDCOM](https://fhiso.org/), [Gramps XML](https://www.gramps-project.org/wiki/index.php/Gramps_XML)), but most of them appear to have fallen by the wayside for lack of interest.
 
-## Formats
+### Formats
 
 Available options for file formats when moving forwards:
 * [GEDCOM](https://en.wikipedia.org/wiki/GEDCOM)
@@ -31,7 +42,7 @@ Available options for file formats when moving forwards:
 
 Most efforts seem to be focusing on either XML or JSON, but I have a personal preference for YAML (both because it is a plaintext format and because it is a human readable format). Since this repository is purely speculation, I’m not too concerned about either development issues I would run into or being overly rigorous with specifications. Keeping that in mind, converting back and forth between YAML and GEDCOM *appears* it should be relatively trivial and, if necessary, could be done by hand. Another minor point is Pandoc can be used for processing Markdown files with included YAML metadata for ID and citations.
 
-## GEDCOM
+### GEDCOM
 
 I will be referring to GEDCOM files as a baseline or starting point simply because they are the most prevalent within the genealogy community, the are the format that everyone is familiar with.
 
@@ -44,7 +55,7 @@ Additionally, two extra categories of data are woven into the above:
 * EVEN (event) – events, personal and family
 * SOUR (source) – sources and documentation
 
-## Microformats
+### Microformats
 
 Of the above, the only component that is somewhat unique is the FAM mapping, the network of connections – a modern alternative to GEDCOM could be split into a whole series of linked discrete components:
 * INDI part could be handled by [vCard](https://en.wikipedia.org/wiki/VCard) or its derivatives
