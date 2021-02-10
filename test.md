@@ -8,3 +8,9 @@ MathML style:
 
 plain HTML style:  
 <p><span class="math inline"><em>e</em><sup><em>i</em><em>π</em></sup> =  − 1</span></p>
+
+githubusercontent rendering:  
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} =-1">
+
+alternate githubusercontent rendering:
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} =-1)
