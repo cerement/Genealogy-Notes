@@ -20,11 +20,11 @@ Requires research, but anthropological [kinship](https://en.wikipedia.org/wiki/K
   |   parent  | |  genitor  |            kinship
   +-----------+ +-----------+              A--B  affine/marriage
               | |    teacher   +---+       B--C  mate
-              | | +------------+ D |       A->E  parent
+              | | +------------+ D |       A->E  parent           E is raised by A+B
               | | |            +---+       B->E  parent
-              +-+-+                        B->E  genitor
+              +-+-+                        B->E  genitor          E is offspring of B+C
               | E |                        C->E  genitor
-              +---+                        D->E  teacher/guru
+              +---+                        D->E  teacher/guru     E is taught by D
 ```
 
 ## Background
