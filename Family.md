@@ -25,7 +25,7 @@ Requires research, but anthropological [kinship](https://en.wikipedia.org/wiki/K
   * B → E : genitor
   * C → E : gentitor
   * D → E : guru (teacher)
-E is offspring of B+C, E is raised by A+B, and E is taught by D
+* E is offspring of B+C, E is raised by A+B, and E is taught by D
 
 ## Background
 
