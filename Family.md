@@ -17,7 +17,8 @@ Requires research, but anthropological [kinship](https://en.wikipedia.org/wiki/K
 (*Loosely* borrowed off an Indian chart)
 
 * People: A, B, C, D, E
-* Kinship:
+* E is offspring of B+C (birth parents), E is raised by A+B (parents), and E is taught by D
+* Kinship as graph:
   * A – B : marriage (affine)
   * B – C : mate
   * A → E : parent
@@ -25,7 +26,19 @@ Requires research, but anthropological [kinship](https://en.wikipedia.org/wiki/K
   * B → E : genitor
   * C → E : genitor
   * D → E : guru (teacher)
-* E is offspring of B+C, E is raised by A+B, and E is taught by D
+* Kinship as cluster:
+```yaml
+families:
+- parents:  [A, B]
+  children: [E]
+  kinship:  affine
+- parents:  [B, C]
+  children: [E]
+  kinship:  genitor
+- parents:  [D]
+  children: [E]  
+  kinship:  guru
+```
 
 ## Background
 
