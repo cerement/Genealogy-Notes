@@ -14,20 +14,18 @@
 Requires research, but anthropological [kinship](https://en.wikipedia.org/wiki/Kinship) looks to be a better source of relationship terminology than genealogy terms. Kinship covers consanguinity (relationship by blood), affinity (relationship by marriage), and fictive kingship (kinship ties not by blood or marriage, ex. milk-mother, godparents, guru in India, foster care, brothers-in-arms, etc.)
 
 ![sample kinship chart excerpt](images/chart.svg)
+(*Loosely* borrowed off an Indian chart)
 
-```
-+---+ affine +---+  mate  +---+      people
-| A +--------+ B +--------+ C |        A, B, C, D, E
-+-+-+        +-+-+        +-+-+
-  |   parent | |   genitor  |        kinship
-  +----------+ +------------+          A--B  affine/marriage
-             | |    teacher   +---+    B--C  mate
-             | | +------------+ D |    A->E  parent           E is raised by A+B
-             | | |            +---+    B->E  parent
-             +-+-+                     B->E  genitor          E is offspring of B+C
-             | E |                     C->E  genitor
-             +---+                     D->E  teacher/guru     E is taught by D
-```
+* People: A, B, C, D, E
+* Kinship:
+  * A – B : marriage (affine)
+  * B – C : mate
+  * A → E : parent
+  * B → E : parent
+  * B → E : genitor
+  * C → E : gentitor
+  * D → E : guru (teacher)
+E is offspring of B+C, E is raised by A+B, and E is taught by D
 
 ## Background
 
