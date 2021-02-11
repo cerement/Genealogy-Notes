@@ -31,10 +31,10 @@ Requires research, but anthropological [kinship](https://en.wikipedia.org/wiki/K
 families:
 - parents:  [A, B]
   children: [E]
-  kinship:  affine
+  kinship:  marriage
 - parents:  [B, C]
   children: [E]
-  kinship:  genitor
+  kinship:  mate
 - parents:  [D]
   children: [E]  
   kinship:  guru
